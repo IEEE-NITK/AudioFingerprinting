@@ -3,7 +3,7 @@
 To create a program that can identify which song a short audio sample originated from.
 
 <p align='center'>
-<img src="https://github.com/IEEE-NITK/AudioFingerprinting/blob/main/Blog/Images/Thumbnail.png" style="zoom:20%;" />
+<img src="https://github.com/IEEE-NITK/AudioFingerprinting/blob/main/Blog/Images/Thumbnail.png" />
 </p>
 
 **Mentors:**
