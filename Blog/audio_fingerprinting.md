@@ -36,9 +36,9 @@ The treatment for audio signals in both phases remains the same. The first and f
 
 The next process is to change the audio signal from the time domain to the frequency domain i.e., obtaining the frequency domain representation. This is achieved by the Fourier Transform of the audio signal, particularly the Fast Fourier Transform (FFT). Shown below is the plot of an audio signal in the time domain, along with its frequency-domain counterpart.
 
-![](images/img1.png)
+<img src="https://github.com/IEEE-NITK/AudioFingerprinting/blob/main/Blog/Images/img1.png" />
+<img src="https://github.com/IEEE-NITK/AudioFingerprinting/blob/main/Blog/Images/img1.png" />
 
-![](images/img2.png)
 
 **Visualizing frequency, amplitude, and time in a single plot**
 
